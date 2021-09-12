@@ -391,4 +391,30 @@ img {
 	border-top-right-radius: 15px;
 	object-fit: cover;
 }
+/*responsive iphone5/SE*/
+
+@media (max-width: 768px) {
+
+    .header-button {
+    	padding-bottom: 40px;
+    }
+
+    .header-button {
+
+    	padding-top: 20px;
+    }
+
+    #nouveau1 {
+
+	bottom: -58%;
+	left: 72%;
+
+}
+
+#nouveau2 {
+
+	bottom: -118%;
+	left: 72%;
+}
+}
 
