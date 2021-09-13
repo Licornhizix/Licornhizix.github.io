@@ -5,6 +5,8 @@
 	margin-right: 2%;
 }
 
+
+
 /*header*/
 
 body {
@@ -35,7 +37,7 @@ header::before {
 
 .logo-header, .logo-header-menu, .menu-title {
 	font-family: 'Shrikhand', cursive;
-	font-size: 30px;
+	font-size: 25px;
 	display: flex;
 	justify-content: center;
 	padding-top: 0;
@@ -87,7 +89,7 @@ p {
 
 
 h2 {
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 900;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -299,7 +301,7 @@ div > h2 {
 	width: 100%;
 	display: flex;
 	justify-content: flex-start;
-
+margin-left: 6%;
 	color: dimgrey;
 }
 
