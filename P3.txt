@@ -83,4 +83,15 @@ a faire :
 
 -ajouter une classe "plat-title" pour reajuster un overflox avec point en cas de dépassement.
 -etudier les effets pour le heart.
+
+
+13/09/2021
+
+fait:
 -activer la fleche retour arrière
+
+a faire :
+
+-ajouter une classe "plat-title" pour reajuster un overflox avec point en cas de dépassement.
+-etudier les effets pour le heart.
+-Responsive mobile pour iphone 5 reduire les textes 

@@ -215,6 +215,7 @@ a {
 
 	color: black;
 	text-decoration: none;
+	position: relative;
 }
 
 h4 {
@@ -235,11 +236,11 @@ h3 {
 	align-items: center;
 	font-size: 20px;
 }
-#nouveau1 {
+.nouveau {
 
 	position: absolute;
-	bottom: -34%;
-	left: 75%;
+	left: 72%;
+	top: -1200%;
 	z-index: 1;
 	background-color: #99E2D0;
 	color: green;
@@ -247,20 +248,6 @@ h3 {
 	border-radius: 5px;
 
 }
-
-#nouveau2 {
-
-	position: absolute;
-	bottom: -87%;
-	left: 75%;
-	z-index: 1;
-	background-color: #99E2D0;
-	color: green;
-	padding: 2%;
-	border-radius: 5px;
-
-}
-
 
 /* Menus*/
 .main-background {
@@ -344,7 +331,7 @@ div > h2 {
 
 }	
 
-.plat-view 
+
 
 .plat-price {
 
