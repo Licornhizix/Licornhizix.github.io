@@ -301,7 +301,7 @@ div > h2 {
 	width: 100%;
 	display: flex;
 	justify-content: flex-start;
-	margin-left: 5%;
+
 	color: dimgrey;
 }
 
@@ -409,7 +409,7 @@ img {
 	bottom: -58%;
 	left: 72%;
 
-}
+} 
 
 #nouveau2 {
 
