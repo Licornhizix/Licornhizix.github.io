@@ -95,3 +95,6 @@ a faire :
 -ajouter une classe "plat-title" pour reajuster un overflox avec point en cas de dépassement.
 -etudier les effets pour le heart.
 -Responsive mobile pour iphone 5 reduire les textes 
+
+
+Question: pour les versions iphone 6, commet pousser le "nouveau" plus à droite?

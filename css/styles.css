@@ -239,12 +239,13 @@ h3 {
 .nouveau {
 
 	position: absolute;
-	left: 72%;
+	left: 76%;
+	font-size: 15px;
 	top: -1200%;
-	z-index: 1;
 	background-color: #99E2D0;
 	color: green;
-	padding: 2%;
+	padding: 10px;
+	
 	border-radius: 5px;
 
 }
@@ -380,7 +381,7 @@ img {
 }
 /*responsive iphone5/SE*/
 
-@media (max-width: 768px) {
+@media (max-width: 320px) {
 
     .header-button {
     	padding-bottom: 40px;
@@ -391,17 +392,11 @@ img {
     	padding-top: 20px;
     }
 
-    #nouveau1 {
+    .nouveau {
+    	left: 72%;
+	}
 
-	bottom: -58%;
-	left: 72%;
-
-} 
-
-#nouveau2 {
-
-	bottom: -118%;
-	left: 72%;
+   
 }
-}
+
 
