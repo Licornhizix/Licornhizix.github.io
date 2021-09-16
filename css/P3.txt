@@ -1,0 +1,100 @@
+11/08/2021
+
+Fait
+
+-Delimitation des balises sémantiques sur les 5 pages à l'aide de paint3d.
+
+-Organisation sémantique de la page acceuil
+
+A faire 
+
+-Organisation général du Header
+
+21/08/2021
+
+Fait 
+
+-Mise en place des éléments du header et du main en html
+A faire :
+
+-Le footer
+-Mettre en page le header en desktop (css)
+
+26/8/2021
+
+A faire:
+
+-Créer toutes les pages
+-mettre de l'ordre dans le code css
+
+Fait
+
+-Remettre le titre en mode mobile (taille adaptée)
+
+-mettre le gris adapté à localisation avec un effet d'ombre en haut
+-Crée le bouton "explorer nos restaurants"
+-Créer le footer
+
+06/09/2021
+
+A faire: ajuster les photos dans acceuil.html
+Developper l'esquisse de l'autre page
+
+Fait: 
+
+-Ajout des puces avec numéros dans "Fonctionnement"
+-Hoover sur les icones dans fonctionnement (violet)
+
+08/09/2021
+
+Fait: 
+-page acceuil (mode mobile)
+ question mentorat :
+1. Pourquoi les autres pages débordent du cadre en responsive mobile?
+2. Comment positionner "nouveau"?
+
+A faire: 
+
+renommer les pages html en fonction des noms de menus
+Crée le premier bouton de la page menu
+aligner le texte en vertical dans le bouton
+
+
+
+fait
+-ajuster le "heart" dans menu1
+
+10/09/2021
+
+Fait:Mise en place des nombreux boutons
+ Mise en place du bouton violet en bas
+ 
+
+11/09/2021
+
+fait: 
+
+-renomer les pages
+-reproduire les 3 autres pages "menu"
+-les relier à acceuil
+-écrire les textes
+
+a faire :
+
+-ajouter une classe "plat-title" pour reajuster un overflox avec point en cas de dépassement.
+-etudier les effets pour le heart.
+
+
+13/09/2021
+
+fait:
+-activer la fleche retour arrière
+
+a faire :
+
+-ajouter une classe "plat-title" pour reajuster un overflox avec point en cas de dépassement.
+-etudier les effets pour le heart.
+-Responsive mobile pour iphone 5 reduire les textes 
+
+
+Question: pour les versions iphone 6, commet pousser le "nouveau" plus à droite?
