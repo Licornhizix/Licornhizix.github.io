@@ -98,3 +98,33 @@ a faire :
 
 
 Question: pour les versions iphone 6, commet pousser le "nouveau" plus à droite?
+
+09/10/2021
+
+A faire: 
+
+-aligner le menu
+-aligner les différentes menues - agrandir l'image principale - tout centrer
+
+12/10/2021
+
+fait:
+-aligner le menu
+-aligner les différentes menues - agrandir l'image principale - tout centrer
+
+13/10/2021
+
+-finir responsive
+-animation prix - visuel sur entré plat dessert (ligne verte)
+-sass
+
+26/10/2021
+
+-a faire : trouver le css qui fait la surlargeur
+
+30/11/2021
+
+a faire: 
+
+-nettoyer css 
+-appliquer code à tt les pages
